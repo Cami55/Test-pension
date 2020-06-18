@@ -38,10 +38,10 @@ Remember to document __how__ you identified the bugs and attach your findings to
 
   * Before (Show method in the companies_controller):
 
-   <!--  def show
+     def show
       @company = Company.find(permitted_params[:id])
       @company = Company.first
-    end -->
+    end
 
   * Solution:
 
