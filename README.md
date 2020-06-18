@@ -29,9 +29,11 @@ These instructions will get the application up and running on your local machine
 
 Remember to document __how__ you identified the bugs and attach your findings to your email back to us, have fun!!
 
+____________________________________________________________________________________________________________________
 
 
-<!-- MY SOLUTIONS TO THE TEST -->
+
+    ## MY SOLUTIONS TO THE TEST
 
 
   1. When creating a company or simply trying to redirected to the company’s show page, the first company on the list will always show.
